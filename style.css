@@ -79,7 +79,7 @@
     position: absolute;
     width: 33%;
     right: 0;
-    background: url(/img/hero-bg-xl.png);
+    background: url(./img/hero-bg-xl.png);
     height: 100%;
     z-index: -1;
     max-height: 335px;
@@ -149,7 +149,7 @@
   }
   
   .partners .background-image{
-    background: url('/img/partner-bg.png');
+    background: url('./img/partner-bg.png');
     min-height: 280px;
     background-size: cover;
     height: 100%;
@@ -313,7 +313,7 @@
   }
   
   .office .background-image{
-    background: url('/img/office-bg.png');
+    background: url('./img/office-bg.png');
     min-height: 280px;
     background-size: cover;
     height: 100%;
